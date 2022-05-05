@@ -7,3 +7,12 @@ img {
     height: auto;
     width: 500px;
   }
+
+.navigation {
+    font-size: 18px;
+    color: #2F3B38;
+}
+
+h1, h2, h3, .navigation {
+    font-family: Helvetica, sans-serif;
+}
