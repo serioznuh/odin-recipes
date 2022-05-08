@@ -2,6 +2,12 @@
     margin-left: 5px;
 }
 
+#container {
+    max-width: 650px;
+    margin: auto auto;
+    text-align: left;
+}
+
 .gif {
     height: auto;
     width: auto;
